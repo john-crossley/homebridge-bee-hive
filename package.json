@@ -20,8 +20,12 @@
   "keywords": [
     "homebridge-plugin"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "John Crossley <jonnysnip3r@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/john-crossley/homebridge-bee-hive.git"
+  },
   "devDependencies": {
     "@types/jest": "^24.0.23",
     "@types/node": "^12.12.17",
