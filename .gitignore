@@ -1,0 +1,8 @@
+node_modules
+/lib
+credentials.json
+session_id.txt
+/persist/*
+config.json
+accessories/
+.idea/
