@@ -1,6 +1,6 @@
 {
   "name": "homebridge-bee-hive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A homebridge plugin to help manage Hive lights.",
   "main": "lib/index.js",
   "scripts": {
